@@ -11,3 +11,6 @@ void printPattern() {
     print("");
   }
 }
+void main() {
+  printPattern(); // program execution starts here
+}
